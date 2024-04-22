@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T12:53:10.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="GyY49BgjWhHobTnWyXM9" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T13:02:02.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="2vpt0_8xowfj3SlbZLdw" version="24.2.7" type="github">
   <diagram name="Page-1" id="_RYCF3ylQ91k99TPhQIK">
-    <mxGraphModel dx="3652" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5046" dy="3169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,7 +464,12 @@
           <mxGeometry x="7690" y="2659.33" width="380" height="380" as="geometry" />
         </mxCell>
         <mxCell id="he8F7eeogso_LTJvetHf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=15;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="Q8ttb2OiofWlbFD4ayBT-385" target="Q8ttb2OiofWlbFD4ayBT-388" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7470" y="3691" />
+              <mxPoint x="7470" y="2849" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8ttb2OiofWlbFD4ayBT-389" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" parent="1" vertex="1">
           <mxGeometry x="7690" y="3501.44" width="380" height="380" as="geometry" />
@@ -476,7 +481,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="he8F7eeogso_LTJvetHf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=15;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="Q8ttb2OiofWlbFD4ayBT-385" target="Q8ttb2OiofWlbFD4ayBT-390" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7470" y="3691" />
+              <mxPoint x="7470" y="4579" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="he8F7eeogso_LTJvetHf-18" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;Amazon Bedrock&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="7720" y="4829.33" width="320" height="30" as="geometry" />
