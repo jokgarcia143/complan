@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T12:24:05.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Zt1rSgBpCoQUCPvyk5N8" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T12:29:47.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="_kQ14xYDXXia6C9uEINB" version="24.2.7" type="github">
   <diagram name="Page-1" id="_RYCF3ylQ91k99TPhQIK">
     <mxGraphModel dx="6153" dy="3697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -645,6 +645,18 @@
         </mxCell>
         <mxCell id="emOAqb-_MGTGQnCpH31G-10" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;AWS Lambda&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4940" y="8610" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="emOAqb-_MGTGQnCpH31G-11" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;Amazon Kendra&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5590" y="8620" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="emOAqb-_MGTGQnCpH31G-12" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;Amazon Transcribe&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6290" y="8610" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="emOAqb-_MGTGQnCpH31G-13" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;Amazon S3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6960" y="8620" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="emOAqb-_MGTGQnCpH31G-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;AWS Lambda&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8185" y="8510" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
